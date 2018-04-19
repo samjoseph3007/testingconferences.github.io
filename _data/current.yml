@@ -120,6 +120,13 @@
   url: https://www.associationforsoftwaretesting.org/conference/cast-2018/
   twitter: AST_News
   status: CFP is closed
+  
+  - name: STeP-IN SUMMIT 2018
+  location: Bangalore, India
+  dates: "August 30 & 31, 2018"
+  url: https://stepinsummit.stepinforum.org/
+  twitter: stepin_forum
+  status: Registration is open
 
 - name: TestBash Germany 2018
   location: Munich, Germany
